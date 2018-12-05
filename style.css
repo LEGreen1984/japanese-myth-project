@@ -1,0 +1,18 @@
+ .container-fluid {
+   background-color: pink
+ }
+ .thumbnail img {
+   width: 350px;
+   height: 198px;
+  border: pink solid;
+}
+.jumbotron {
+  background-image: url(https://vignette.wikia.nocookie.net/rocketleague/images/6/6b/Neo_Tokyo_arena_preview.png/revision/latest?cb=20170527074431 );
+}
+.jumbotron h1, h2 {
+  font-family: fantasy;
+  color: white;
+}
+body {
+  background-image: linear-gradient(to bottom right, #3F0778,#30ADE8  );
+}
