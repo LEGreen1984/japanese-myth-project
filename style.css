@@ -7,12 +7,19 @@
   border: pink solid;
 }
 .jumbotron {
-  background-image: url(https://vignette.wikia.nocookie.net/rocketleague/images/6/6b/Neo_Tokyo_arena_preview.png/revision/latest?cb=20170527074431 );
+  background-image: url(https://nintendowire.com/wp-content/uploads/2018/08/Banner-Okami-HD-CoverArt.jpg);
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
 }
 .jumbotron h1, h2 {
   font-family: fantasy;
   color: white;
 }
 body {
-  background-image: linear-gradient(to bottom right, #3F0778,#30ADE8  );
+  background-image: url(https://www.washingtonian.com/wp-content/uploads/2017/03/cherry-blossom-phases.jpg);
+  /* background-repeat: no-repeat; */
+  background-position: center;
+  /* -webkit-background-size: cover;); */
 }
