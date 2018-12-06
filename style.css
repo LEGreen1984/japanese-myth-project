@@ -1,6 +1,10 @@
  .container-fluid {
-   background-color: pink
+   background-color: #C63C17;
  }
+ #bs-example-navbar-collapse-1 {
+   color: white;
+ }
+
  .thumbnail img {
    width: 350px;
    height: 198px;
@@ -18,7 +22,9 @@
   color: white;
 }
 body {
-  background-image: url(https://www.washingtonian.com/wp-content/uploads/2017/03/cherry-blossom-phases.jpg);
+  background:#DF5723;
+
+
   /* background-repeat: no-repeat; */
   background-position: center;
   /* -webkit-background-size: cover;); */
