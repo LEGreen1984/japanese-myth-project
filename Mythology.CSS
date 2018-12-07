@@ -1,0 +1,29 @@
+
+.row{
+  border:dashed 2px brown;
+  background: #DFBC88;
+  border-radius: 10px 10px 10px 10px;
+  margin-bottom: 5%;
+  padding-bottom: 2%;
+}
+.col-sm-8 {
+  text-align: center;
+  display: inline-block;
+  float: right;
+}
+.row {
+  float: right;
+}
+h2 {
+  color: black;
+}
+body {
+  background-image: url("http://www.artofokami.com/images/backgrounds/backgrounds_9.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  -webkit-background-size: cover;
+}
+.container-fluid {
+  background-color: #B8D9C2;
+  margin-bottom: : 0;
+}
