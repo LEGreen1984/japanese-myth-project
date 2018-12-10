@@ -9,4 +9,3 @@ This site was built using CSS and HTML.
 An example of this can be found at: ![an example of the website](Okami.PNG)
 No installation is required and the site can be reached from this URL:https://legreen1984.github.io/japanese-myth-project/index.html
 
-This site was built using CSS and HTML.
